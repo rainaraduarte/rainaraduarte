@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**rainaraduarte/rainaraduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Olá!
 - 💻Técnica em informática 
 - 🌱 Estudando programação
