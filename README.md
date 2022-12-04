@@ -1,5 +1,6 @@
 ## Olá!
-- 💻 Cursando técnico em informática 
+- 👩🏻‍💻 Técnica em Informática
+- 💻 Cursando Engenharia da Computação
 - 🌱 Estudando programação
 - 😄 Ela/dela
 
